@@ -24,7 +24,7 @@ The project was built using everything taught in class, leveraging **React hooks
 
 1. Deployed link 
    ```bash
-   git clone https://github.com/your-username/devhire-job-board.git
+  [ Deploy Link](https://react-end-term-project-job-searching-plgl.vercel.app/)
 
   ![image](https://github.com/user-attachments/assets/03957148-c175-4580-b3a5-72a49009e026)
   ![image](https://github.com/user-attachments/assets/203a870e-3c1f-4037-bd9d-cdf36ebecab3)
