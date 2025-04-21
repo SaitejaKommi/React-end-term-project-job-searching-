@@ -23,7 +23,6 @@ The project was built using everything taught in class, leveraging **React hooks
 
 
 1. Deployed link 
-   ```bash
   [ Deploy Link](https://react-end-term-project-job-searching-plgl.vercel.app/)
 
   ![image](https://github.com/user-attachments/assets/03957148-c175-4580-b3a5-72a49009e026)
