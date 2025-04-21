@@ -1,104 +1,32 @@
-
 # DevHire - Job Board Application
 
-A modern job board platform built with React, helping developers find their next role. DevHire provides an intuitive interface for browsing job listings, saving favorite positions, and applying to opportunities.
+## Description
+
+**DevHire** is a job board application designed for developers looking for job opportunities. It aims to solve the problem of efficiently finding job listings tailored to developers' skills and preferences. The application allows users to search for jobs, save their favorite listings, and apply directly through a simple form.
+
+The project was built using everything taught in class, leveraging **React hooks** and modern JavaScript technologies like **TypeScript** to ensure a smooth and scalable experience. The app’s design focuses on user-friendly functionality, helping developers connect with potential employers quickly and effectively.
 
 ## Features
 
-- **Job Search & Filtering**: Search jobs by title or company
-- **Job Details**: Detailed view of each job posting with complete description and requirements
-- **Application System**: Built-in application form with validation for job applications
-- **Saved Jobs**: Save favorite job listings for later review
-- **Responsive Design**: Fully responsive interface that works on mobile and desktop
-- **Real-time Search**: Instant search results as you type
-- **Form Validation**: Comprehensive form validation for job applications
+- **Job Filtering**: Filter job listings based on your requirements (e.g., location, type of job, experience level).
+- **Job Saving**: Save job listings for future reference and quick access.
+- **Application Form**: Easily apply to jobs by filling out a form with your details.
+- **Search Option**: Quickly find job opportunities through a search bar.
+- **Dashboard**: Store all saved jobs and track your applications in a user-friendly dashboard.
 
 ## Tech Stack
 
-- **Frontend Framework**: React.js 18 with functional components and hooks
-- **Routing**: React Router v6 for navigation
-- **State Management**: React Context API for global state management
-- **Styling**: Tailwind CSS for responsive design
-- **UI Components**: shadcn/ui component library
-- **Icons**: Lucide React for beautiful icons
-- **Data Fetching**: TanStack Query for efficient API calls
-- **Form Handling**: React Hook Form with validation
-- **Development**: Vite for fast development and building
+- **Frontend**: React with TypeScript (TSX)
+- **Styling**: Tailwind CSS for responsive and modern design
+- **UI/UX**: Tailwind for styling, ensuring a seamless user experience
+- **State Management**: React hooks for managing component state and side effects
 
-## Getting Started
 
-### Prerequisites
+1. Deployed link 
+   ```bash
+   git clone https://github.com/your-username/devhire-job-board.git
 
-- Node.js 16.0 or later
-- npm (comes with Node.js)
+  ![image](https://github.com/user-attachments/assets/03957148-c175-4580-b3a5-72a49009e026)
+  ![image](https://github.com/user-attachments/assets/203a870e-3c1f-4037-bd9d-cdf36ebecab3)
 
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/devhire.git
-cd devhire
-```
-
-2. Install dependencies
-```bash
-npm install
-```
-
-3. Start the development server
-```bash
-npm run dev
-```
-
-4. Open your browser and visit `http://localhost:5173`
-
-## Project Structure
-
-```
-devhire/
-├── src/
-│   ├── components/    # Reusable UI components
-│   ├── contexts/      # Global state management
-│   ├── pages/         # Page components
-│   ├── hooks/         # Custom React hooks
-│   └── lib/          # Utility functions
-├── public/           # Static assets
-└── README.md
-```
-
-## Features in Detail
-
-### Home Page
-- Browse all job listings
-- Search jobs by title or company
-- Real-time search filtering
-- Responsive grid layout
-
-### Job Details
-- Complete job description
-- Company information
-- Application form with validation
-- Save job functionality
-
-### Dashboard
-- View saved job listings
-- Quick access to job details
-- Remove jobs from saved list
-
-### Navigation
-- Responsive navbar
-- Easy access to all main sections
-- Mobile-friendly menu
-
-## Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
